@@ -23,7 +23,11 @@ Desenvolvimento web com foco em aplicações modernas utilizando Java, Spring Bo
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="@DarkScreen-vh7wy
+•
+31 inscritos
+•
+21 vídeos"
         />
     </a>
     <a href="https://www.youtube.com/@DarkScreen-vh7wy">
