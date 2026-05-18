@@ -2,8 +2,6 @@
 
 ##`Desenvolvedor FULLSTACK`##
 
-
-Professor de Programação Full Stack | Desenvolvedor Web
 Desenvolvimento web com foco em aplicações modernas utilizando Java, Spring Boot e JavaScript.
 
 🛠️ Tecnologias:
@@ -18,9 +16,7 @@ Desenvolvimento web com foco em aplicações modernas utilizando Java, Spring Bo
 
 🎯 Objetivo: desenvolver soluções eficientes e compartilhar conhecimento através da tecnologia.
 
- 
-
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Ferramentas
 
 <img 
     align="left" 
@@ -123,8 +119,6 @@ Desenvolvimento web com foco em aplicações modernas utilizando Java, Spring Bo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
 />
-
-### 🧰 Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
