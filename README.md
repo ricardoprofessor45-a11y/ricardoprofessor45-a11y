@@ -74,6 +74,55 @@ Desenvolvimento web com foco em aplicações modernas utilizando Java, Spring Bo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
 
+<!-- GitHub -->
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+<!-- Postman -->
+<img 
+    align="left" 
+    alt="Postman"
+    title="Postman" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
+/>
+
+<!-- MySQL Workbench -->
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL Workbench" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
+<!-- Eclipse -->
+<img 
+    align="left" 
+    alt="Eclipse"
+    title="Eclipse" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" 
+/>
+
+<!-- VS Code -->
+<img 
+    align="left" 
+    alt="VS Code"
+    title="Visual Studio Code" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+/>
 ### 🧰 Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
